@@ -1,0 +1,4 @@
+Business logic, database interaction, security interaction considered in backend
+Client-Server Architecture (req-res)
+
+NOdeJS privide runtime environment where you can run your JS. First we code run js in browser and now can do same on Server
