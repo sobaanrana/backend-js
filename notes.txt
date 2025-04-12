@@ -2,3 +2,13 @@ Business logic, database interaction, security interaction considered in backend
 Client-Server Architecture (req-res)
 
 NOdeJS privide runtime environment where you can run your JS. First we code run js in browser and now can do same on Server
+NodeJS  primarily  uses?
+Why nodejs is fast?
+
+
+Framework vs library?
+
+ExpressJS if Framework ; standard way to create web application, organized and fast way. 
+
+
+Middleware is a layer between request and response. Its just a function utilised in the r-r cycle
