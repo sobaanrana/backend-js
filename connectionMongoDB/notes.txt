@@ -1,0 +1,14 @@
+model - for operations on db 
+blue print or template
+
+dotenv is a file used to store imporant info 
+api key
+secret info
+token
+
+Crud operation for that need model and to make model we need schema
+
+
+Schema -> Model and use that for db 
+
+Db connect - create model - perform operation 
