@@ -1,0 +1,22 @@
+Model  - DB and DB logic
+View - data on interface
+Controller - business logic
+
+model used to interact with the DB and controller manages the logic i.e.
+categorizing prices of products on the basis of classes
+
+you decide which bussines logic to hit on which route
+
+request - approprate route - contrller is mapped there - logic run (model method runs and business logic as well )
+
+
+
+Frontend/Client send request to express app, it then sends to route, every route is mapped to a controller,
+controller has a logic whihc is executed, or it can use model as well to  interact with DB , or run any other logic
+controller then creates a response and send it back to the frontend
+
+View is handled by react and for now in this case consider response as view 
+
+npm init -y
+npm install express mongoose nodemon dotenv
+
